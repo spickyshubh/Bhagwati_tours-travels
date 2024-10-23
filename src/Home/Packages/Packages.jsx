@@ -130,7 +130,7 @@ export const Packages = () => {
             <h2>Starts From 15 days and 15 night</h2>
             <h3>High Budget Car</h3>
             </div>
-            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} className={farebutton===true?'active':''}>Get Fare</button>  
+            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} ClassName={farebutton===true?'active':''}>Get Fare</button>  
             {getfare === 'kwid' && (
         <div className="fare">
           {submit?<div className='submit_msg'>
@@ -321,7 +321,7 @@ export const Packages = () => {
             <h2>Starts From 15 days and 15 night</h2>
             <h3>High Budget Car</h3>
             </div>
-            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} className={farebutton===true?'active':''}>Get Fare</button> 
+            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} ClassName={farebutton===true?'active':''}>Get Fare</button> 
             {getfare === 'kwid' && (
         <div className="fare">
           {submit?<div className='submit_msg'>
@@ -505,7 +505,7 @@ export const Packages = () => {
             <h2>Starts From 15 days and 15 night</h2>
             <h3>High Budget Car</h3>
             </div>
-            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} className={farebutton===true?'active':''}>Get Fare</button>    
+            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} ClassName={farebutton===true?'active':''}>Get Fare</button>    
             {getfare === 'kwid' && (
         <div className="fare">
           {submit?<div className='submit_msg'>
@@ -684,7 +684,7 @@ export const Packages = () => {
             <h2>Starts From 15 days and 15 night</h2>
             <h3>High Budget Car</h3>
             </div>
-            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} className={farebutton===true?'active':''}>Get Fare</button>    
+            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} ClassName={farebutton===true?'active':''}>Get Fare</button>    
             {getfare === 'kwid' && (
         <div className="fare">
           {submit?<div className='submit_msg'>
@@ -869,7 +869,7 @@ export const Packages = () => {
             <h2>Starts From 15 days and 15 night</h2>
             <h3>High Budget Car</h3>
             </div>
-            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} className={farebutton===true?'active':''}>Get Fare</button>    
+            <button className='kwid_button' onClick={()=>{buttonFare('kwid');handlefareButton()}} ClassName={farebutton===true?'active':''}>Get Fare</button>    
             {getfare === 'kwid' && (
         <div className="fare">
           {submit?<div className='submit_msg'>
