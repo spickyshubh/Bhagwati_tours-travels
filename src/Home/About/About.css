@@ -1,0 +1,16 @@
+.about{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    
+}
+
+.about img{
+    width: 100px;
+}
+
+
+
+h3{
+    color: #008080;
+}

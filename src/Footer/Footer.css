@@ -1,0 +1,25 @@
+.footer_icon{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 50px;
+    margin-bottom: -75px;
+}
+
+.footer_icon img{
+    width: 75px;
+    height: 75px;
+    cursor: pointer;
+}
+
+
+
+hr{
+    margin-top: 150px;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}

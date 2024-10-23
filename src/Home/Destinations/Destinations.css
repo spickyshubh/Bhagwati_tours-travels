@@ -1,0 +1,76 @@
+#destiny{
+    display: flex;
+    position: relative;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    height: 500px;
+}
+
+.logo_image{
+    width: 450px;
+    height: 630px;
+    border-radius: 8px;
+    margin-left: -325px;
+    
+}
+
+.right_img{
+    width: 450px;
+    height: 630px; 
+    border-radius: 8px;
+    margin-left: 15px;
+}
+
+.subheading{
+    width: 500px;
+    margin-left: 15px;
+}
+
+b{
+    color: #483C32;
+}
+
+h3{
+    margin-left: 15px;
+}
+
+.packages{
+    display: flex;
+    gap: 25px;
+    margin-top: -25px;
+    margin-left: 15px;
+}
+.b_a{
+    width: 250px;
+    margin-top: -15px;
+    border-radius: 4px;
+    border-color: aliceblue;
+    font-weight: 600;
+}
+
+/* .b_a :hover{
+    transform: scale(1.5);
+} */
+
+h4{
+    color: #7D98A1;
+    font-size: xx-large;
+    margin-bottom: 7px;
+}
+
+.travel_img{
+    width: 250px;
+    height: 250px;
+    margin-top: 7px;
+    border-radius: 4px;
+}
+
+button:hover{
+    transform: scale(1.05);
+    background-color: #1C2321;
+}
+
+.travel_img :hover{
+    transform: scale(1.05);
+}
